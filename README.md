@@ -1,5 +1,5 @@
 
-#Inventory manager
+# Inventory manager
 
 Web application pour gérer l'inventaire d'un magasin de disque 
 
