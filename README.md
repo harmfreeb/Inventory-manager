@@ -1,5 +1,13 @@
 
+#Inventory manager
+
 Web application pour gérer l'inventaire d'un magasin de disque 
+
+![preview](https://inventory.lucdandrel.com/assets/img/screen.png)
+
+---
+- [Demo](https://inventory.lucdandrel.com)
+---
 
 ## Features
 - Ajouter/Modifier/Supprimer des CD 
